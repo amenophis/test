@@ -1,4 +1,4 @@
-image: ubuntu
+template: php
 build:
   - composer install
   - echo "OK"
