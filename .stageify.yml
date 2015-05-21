@@ -1,4 +1,4 @@
-template: php
+template: php56
 build:
   - composer install
   - echo "OK"
